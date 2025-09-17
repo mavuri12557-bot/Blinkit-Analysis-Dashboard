@@ -52,11 +52,6 @@ Blinkit operates on a **hyperlocal delivery model** where outlets are set up in 
 
 ---
 
-## 📬 Contact  
-📧 Email: [mavuri12558@gmail.com](mailto:mavuri12558@gmail.com)  
-🔗 LinkedIn: [Sekhar Mavuri](https://www.linkedin.com/in/sekhar-mavuri-244037200/)  
-- **Google Drive (PBIX + Dataset)**: [Access Files](https://drive.google.com/drive/folders/1uNPBE-D3GRgPKnoZZTCF5ZNTSWCv8-YW?usp=sharing)  
-
 ---
 
 ## 🛠️ Tools & Technologies Used  
@@ -71,12 +66,7 @@ Blinkit operates on a **hyperlocal delivery model** where outlets are set up in 
 🔗 LinkedIn: [Sekhar Mavuri](https://www.linkedin.com/in/sekhar-mavuri-244037200/)  )  
 
 ---
-
----
-
-## 📬 Contact  
-📧 Email: [mavuri12558@gmail.com](mailto:mavuri12558@gmail.com)  
-🔗 LinkedIn: [Sekhar Mavuri](https://www.linkedin.com/in/sekhar-mavuri-244037200/)  
+ 
 
 ## 📊 Outcomes  
 - Built a structured dashboard in Jupyter Notebook with Python visualizations.  
